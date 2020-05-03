@@ -1,0 +1,31 @@
+﻿@model PersonViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ApplyForPerson</title>
+</head>
+<body>
+    <form asp-controller="Home" asp-action="ApplyForPerson">
+        Ad: <input asp-for="@Model.Name" />
+        Soyad: <input asp-for="@Model.Surname" />
+        Tc Kimlik No: <input asp-for="@Model.TcNumber" />
+        Dogum Yili: <input asp-for="@Model.BirthYear" />
+        <button type="submit">Kontrol Et</button>
+    </form>
+
+    <form asp-controller="Home" asp-action="ApplyForPerson">
+        Ad: <input asp-for="@Model.Name" />
+        Soyad: <input asp-for="@Model.Surname" />
+        Pasaport No: <input asp-for="@Model.PassportNo" />
+        Dogum Yili: <input asp-for="@Model.BirthYear" />
+        <button type="submit">Kontrol Et</button>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿@model WebAPI.Models.PersonViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ApplyForPerson</title>
+</head>
+<body>
+    <form asp-controller="Apply" asp-action="ApplyPerson">
+        Ad: <input asp-for="@Model.Name" />
+        Soyad: <input asp-for="@Model.Surname" />
+        Number: <input asp-for="@Model.Number" />
+        <button type="submit">Kontrol Et</button>
+    </form>
+</body>
+</html>
