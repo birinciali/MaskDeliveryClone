@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj": {}
+    "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj": {
+    "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj",
+        "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\obj\\",
+        "outputPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,6 +1,11 @@
 ﻿@model PersonViewModel
 @{
     Layout = null;
+    var valueWhois = "noone";
+    ViewData["Title"] = "About";
+
+    var name = string.Empty;
+
 }
 
 <!DOCTYPE html>
@@ -11,6 +16,8 @@
     <title>ApplyForPerson</title>
 </head>
 <body>
+
+    <h1>For People who has Identity Number</h1>
     <form asp-controller="Home" asp-action="ApplyForPerson">
         Ad: <input asp-for="@Model.Name" />
         Soyad: <input asp-for="@Model.Surname" />
@@ -18,6 +25,8 @@
         Dogum Yili: <input asp-for="@Model.BirthYear" />
         <button type="submit">Kontrol Et</button>
     </form>
+
+    <h1>For People who has not Identity Number</h1>
 
     <form asp-controller="Home" asp-action="ApplyForPerson">
         Ad: <input asp-for="@Model.Name" />

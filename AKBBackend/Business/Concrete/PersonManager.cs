@@ -40,7 +40,6 @@ namespace Business.Concrete
         {
             if (person.Number.Length == 11)
             {
-                
                 KPSPublicSoapClient client = new KPSPublicSoapClient(KPSPublicSoapClient.EndpointConfiguration.KPSPublicSoap);
 
                 long identityNumberLongType = long.Parse(person.Number);
@@ -86,7 +85,6 @@ namespace Business.Concrete
                 };
                 _personWhoHasNotTcNumberDal.Add(personWhoHasNotTcNumber);
             }
-
 
             _efMaskDeliveryDal.Add(maskDelivery);
             return true;

@@ -6129,11 +6129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Entities\\obj\\",
+      "outputPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6152,8 +6152,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj"
+            "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj": {
+              "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj"
             }
           }
         }

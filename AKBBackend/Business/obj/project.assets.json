@@ -6609,11 +6609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Business\\Business.csproj",
+      "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Business\\obj\\",
+      "outputPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6632,11 +6632,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Monster\\source\\repos\\AKBBackend\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\DataAccess\\DataAccess.csproj"
+            "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Entities\\Entities.csproj"
+            "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Entities\\Entities.csproj"
             }
           }
         }

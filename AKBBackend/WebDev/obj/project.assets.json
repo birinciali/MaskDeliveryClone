@@ -8595,11 +8595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\WebDev\\WebDev.csproj",
+      "projectUniqueName": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\WebDev\\WebDev.csproj",
       "projectName": "WebDev",
-      "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\WebDev\\WebDev.csproj",
+      "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\WebDev\\WebDev.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\WebDev\\obj\\",
+      "outputPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\WebDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8618,8 +8618,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Business\\Business.csproj"
+            "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Business\\Business.csproj": {
+              "projectPath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Business\\Business.csproj"
             }
           }
         }

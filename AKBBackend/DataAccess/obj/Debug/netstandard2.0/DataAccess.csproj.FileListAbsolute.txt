@@ -12,3 +12,17 @@ C:\Users\Monster\source\repos\AKBBackend\DataAccess\obj\Debug\netstandard2.0\Dat
 C:\Users\Monster\source\repos\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\Monster\source\repos\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\Monster\source\repos\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Projeler-Angular-Node-Unity\Github\MaskDeliveryClone\MaskDeliveryClone\AKBBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

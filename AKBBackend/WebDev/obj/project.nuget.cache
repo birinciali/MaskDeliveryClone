@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnkeoFBshAfu0C5V07Lid4k53q4ssY+A0W2EZgjxufrwroYq/B9fJvCGQ0M6n9+BKc909/aVDTkPi/buCAKLJA==",
+  "dgSpecHash": "kOqp2fSg9dIsX5mpGvcnJCtVBzuzqLAS2hK3dMTsD8f1QdimJEu9afqYXjQYF4xqVqKihU+hbSeXluZqkUimrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\WebDev\\WebDev.csproj",
+  "projectFilePath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\WebDev\\WebDev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

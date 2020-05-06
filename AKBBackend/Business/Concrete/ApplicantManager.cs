@@ -28,7 +28,6 @@ namespace Business.Concrete
 
                 if (CheckPersonHasMaskLastOneWeek(person))
                 {
-                    //GiveMaskToPerson(person);
                     return GiveMaskToPerson(person);
                 }
                 else

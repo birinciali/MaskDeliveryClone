@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYbuUnCP+cJ91PawGnw5h5TY2geyVmUA8OndCM/9mZseE/vMu7Y6r5XV1hHnCW6Wc8awRP6W2KFvFH6XUrlBpQ==",
+  "dgSpecHash": "Q6jXB+bqqDzHIimgriJ0rzGavCONrOa1UjSmTEVuPn8G7SOMoEkyVXKPWieDRCZOoSa4erBoQIEqR1MWaNOFRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\AKBBackend\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Projeler-Angular-Node-Unity\\Github\\MaskDeliveryClone\\MaskDeliveryClone\\AKBBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
